@@ -1,0 +1,73 @@
+/* css external file for practice html by edward frempong*/
+body {
+		color: none;
+		background-color: #FFE4E1 ;
+		margin:100px;
+		margin-top: 10px;
+			}
+	#block{
+		background-color:#FFF0F5  ;
+		padding-left:20px;
+		padding-right:200px;
+	}
+h1{
+	color: white;
+
+	text-align: center;
+}
+h2 , h3{
+	color:blue;
+}
+ #title{
+	border: 0px solid black ;
+	border-radius: 7px;
+	margin-left: 450px;
+	margin-right: 450px;
+	border-radius: 100px;
+	background-color: none;
+	background-image: url("images/coro1.jpg");
+	padding-top:0px;
+	padding-bottom:0px;
+} 	
+
+p{
+	font-family: verdana;
+}
+.updated li{
+	font-size: 20px;
+}
+.section1 p{
+	color:gray-black;
+	background-color:#D8BFD8 ;
+	text-align: center;
+	margin-left:350px;
+	margin-right:350px;
+}
+.internal{
+	font-family:;
+	font-size: 17px;
+	padding-left: 30px;
+}
+.meter{
+	text-align: center;
+}
+figure {
+	padding-left: 250px;
+	padding-right: 250px; 
+}
+.ghana{
+	text-align: center;
+	
+}
+
+figcaption{
+	text-align: center;
+	color: blue;
+}
+footer{
+	text-align: center;
+	color: gray-black;
+	background-color:#D8BFD8 ;
+
+}
+

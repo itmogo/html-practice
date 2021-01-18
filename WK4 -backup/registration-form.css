@@ -1,0 +1,177 @@
+body{
+	margin 0;
+	background-color: rgb(227, 237, 253);
+	font-family: Roboto,RobotoDraft,Helvetica,Arial,sans-serif;
+	font-size: 16px;
+	}	
+.red-color {
+color:red;
+}
+h1{
+	font-weight: lighter;	
+}
+.form-width{
+	width: 42.7%;
+	margin-left: 400px;
+	margin-right: 300px;
+}
+.header{
+	border: 1px solid white;
+	background-color: white;
+	border-radius: 5px;
+	text-align: left;
+	margin-bottom: 20px;
+	padding: 0 20px;
+	margin-top: 29px;
+	border-top: 10px #1a73e8 solid;	
+}
+.email{
+	border: 1px solid white;
+	background-color: white;
+	border-radius: 5px;
+	text-align: left;
+	margin-bottom: 20px;
+	padding: 25px;
+}
+.name{
+	border: 1px solid white;
+	background-color: white;
+	border-radius: 5px;
+	text-align: left;
+	margin-bottom: 20px;
+	padding: 25px;
+}
+.phone-number{
+	border: 1px solid white;
+	background-color: white;
+	border-radius: 5px;
+	text-align: left;
+	margin-bottom: 20px;
+	padding: 25px;
+}
+.next-of-kin{	
+	border: 1px solid white;
+	background-color: white;
+	border-radius: 5px;
+	text-align: left;
+	margin-bottom: 20px;
+	padding: 20px;
+}
+.pay-fees{
+	border: 1px solid white;
+	background-color: white;
+	border-radius: 5px;
+	text-align: left;
+	margin-bottom: 20px;
+	padding: 20px;
+}
+.paid-by{	
+	border: 1px solid white;
+	background-color: white;
+	border-radius: 5px;
+	text-align: left;
+	margin-bottom: 20px;
+	padding: 20px;	
+}
+.location{
+	border: 1px solid white;
+	background-color: white;
+	border-radius: 5px;
+	text-align: left;
+	margin-bottom: 20px;
+	padding: 25px;
+}
+
+.school{
+	border: 1px solid white;
+	background-color: white;
+	border-radius: 5px;
+	text-align: left;
+	margin-bottom: 20px;
+	padding:25px;
+	/*height: 30px;*/
+}
+
+.join-codetrain{
+	border: 1px solid white;
+	background-color: white;
+	border-radius: 5px;
+	text-align: left;
+	margin-bottom: 20px;
+	padding:25px;
+}
+.news-codetrain{
+	border: 1px solid white;
+	background-color: white;
+	border-radius: 5px;
+	text-align: left;
+	margin-bottom: 20px;
+	padding:25px;
+}
+input[type=text], input[type=email], input[type=number]{
+	width: 50%;
+	padding: 12px 20px;
+	margin: 8px 0;
+	box-sizing: border-box; 
+	border: none;
+	border-bottom: 0.5px solid #DCDCDC; 
+	line-height: 21px;	
+}
+input[type=submit]{
+	background-color: #1a73e8;
+	color: white;
+	border-radius: 5px;
+	padding: 12px 28px;
+	border: none;
+}
+input[type=radio]{
+	margin-right: 20px;
+	margin-top: 10px;
+}
+#copy{
+	margin: 40px 0;
+	color: #808080;
+}
+.span{
+	text-align: center;
+	font-size: 11px;
+	color: #808080;
+}
+.privacy{
+	text-align:left;
+	font-size: 11px;
+	color: #808080;
+	padding-bottom: 5px;
+}
+footer{
+	color: #808080;
+	text-align: center;
+	padding-bottom: 12px;
+	
+}
+.google{
+		color: #808080;
+		font-size: 11px;
+		text-align: center;
+}
+#bar{
+	background-color:#258e25; 
+	border-radius: 5px;
+  	border: 2px solid #73AD21;  
+  	width: 180px;
+  	height: 5px;
+  	margin-left: 240px;
+  	padding-top:5px;
+}
+img{	
+	float: left;
+	margin-left: 270px;	
+}
+#base{
+	text-align: center;
+	font-size:22px;
+}
+.pass{
+	color:#808080;
+	font-size: 11px;
+	}
